@@ -4,4 +4,7 @@
 
 功能说明：显示玩家的猜词次数
 
+
 hello git
+Powered by Morii_y
+
